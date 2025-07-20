@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn==1.6.1
+imbalanced-learn
+optuna
+streamlit
